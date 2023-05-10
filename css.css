@@ -1,6 +1,6 @@
 /* this is body style */
 body{
-    color: black; 
-    background-color: bisque;
-    font-family: 'Courier New', Courier, monospace;
+    color: black; /* change font color to black */
+    background-color: bisque; /* change background color to bisque */
+    font-family: 'Courier New', Courier, monospace; /* change font style to monospace */
 }
