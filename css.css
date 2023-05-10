@@ -1,7 +1,7 @@
 /* this is body style */
-#introduction{
+body{
     color: black; /* change font color to black */
-    background-color: bisque; /* change background color to bisque */
+    background-image: url("https://i.pinimg.com/564x/e9/1a/37/e91a37e24d01c91122d069222629daae.jpg") ; /* change background color to bisque */
     font-family: 'Courier New', Courier, monospace; /* change font style to monospace */
 }
 #hello{
