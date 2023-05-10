@@ -6,8 +6,10 @@ body{
     font-family: 'Courier New', Courier, monospace; /* change font style to monospace */
 }
 #first{
+    margin-top: 50%;
     font-size: medium; /* change hello font size*/
 }
 #last{
+    margin-top: 50%;
     font-size: larger; /* change name font size */
 }
