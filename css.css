@@ -1,5 +1,5 @@
 /* this is body style */
-body{
+#body{
     color: black; /* change font color to black */
     background-color: bisque; /* change background color to bisque */
     font-family: 'Courier New', Courier, monospace; /* change font style to monospace */
