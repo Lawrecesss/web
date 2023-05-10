@@ -1,15 +1,14 @@
 /* this is body style */
 body{
     text-align: center;
-    color: black; /* change font color to black */
+    color: wheat; /* change font color to  wheat*/
     background-image: url("https://i.pinimg.com/564x/e9/1a/37/e91a37e24d01c91122d069222629daae.jpg") ; /* change background color to bisque */
     font-family: 'Courier New', Courier, monospace; /* change font style to monospace */
 }
 #first{
-    margin-top: 50%;
+    margin-top: 25%;
     font-size: medium; /* change hello font size*/
 }
 #last{
-    margin-top: 50%;
     font-size: larger; /* change name font size */
 }
