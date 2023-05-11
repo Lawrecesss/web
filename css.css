@@ -1,12 +1,11 @@
 /* this is body style */
 body{
     text-align: center;
-    color: wheat; /* change font color to  wheat*/
-    background-image: url("https://i.pinimg.com/564x/e9/1a/37/e91a37e24d01c91122d069222629daae.jpg") ; /* change background color to bisque */
+    color: burlywood; /* change font color to  wheat*/
+    background-color: aliceblue ; /* change background color to aliceblue */
     font-family: 'Courier New', Courier, monospace; /* change font style to monospace */
 }
 #first{
-    margin-top: 25%;
     font-size: medium; /* change hello font size*/
 }
 #last{
