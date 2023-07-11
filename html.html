@@ -1,43 +1,20 @@
 <!DOCTYPE html>
 <html>
-    <!--this is head-->
-    <head>
-        <title>HTML</title>
-        <link rel="stylesheet" href="css.css">
-    </head>
-    <!-- this is body -->
     <body>
-        <div id="Menubar">
-            <form>
-                <input type="search" name="search" id="search" height="30">
-                <select id="Language">
-                    <option>English</option>
-                    <option>Spanish</option>
-                    <option>Chinese</option>
-                    <option>Korean</option>
-                    <option>Thai</option>
-                </select>
-                <select id="currancy">
-                    <option>USD</option>
-                    <option>SGD</option>
-                    <option>Pound</option>
-                    <option>Euro</option>
-                    <option>W</option>
-                </select>
-            </form>
+        <div id="game">
+            <div id="stats">
+                <span class="stat"><strong> XP : </strong></span><span id="xpStat"><strong>0</strong></span>
+                <span class="stat"><strong> Health : </strong></span><span id="healthStat"><strong>100</strong></span>
+                <span class="stat"><strong> Coin : </strong></span><span id="coinStat"><strong>50</strong></span>
+            </div>
+            <div id="buttons">
+                <button id="store"><strong>Go To Store</strong></button>
+                <button id="cave"><strong>Go To Cave</strong></button>
+                <button id="fight"><strong>Fight Monster</strong></button>
+            </div>
+            
+            <div id="monster"></div>
+            <div id="script"></div>
         </div>
-        <!-- 
-        <div id="sologan">
-            <h1 id="first">
-                Escape the Ordinary, Explore the Extraordinary
-            </h1>
-            <h1 id="last">
-                - Start Your Journey Now! -
-            </h1>
-        </div>
-        -->
-        
     </body>
-    <script src="js.js"></script>
-
 </html>
